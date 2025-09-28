@@ -1,10 +1,15 @@
-# Simple Foundry Construction Site
 
-This is a very simple React + Vite starter.
+# Foundry Construction – Full Site
 
-## Run locally
+Built with Vite + React + Tailwind. Deployed on Netlify.
+
+## Local dev
 npm install
 npm run dev
 
-## Build for production
+## Build
 npm run build
+
+## Netlify
+Build command: npm run build
+Publish directory: dist
